@@ -2,7 +2,9 @@
 
 ### **Task:**
 Solve the following set of equations
+
 ![](tmp.PNG)
+
 using
 1. Gauss-Jordan Elimination (gaussj())
 2. LU Decomposition (ludcmp())

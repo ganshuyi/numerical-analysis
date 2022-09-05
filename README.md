@@ -2,7 +2,7 @@
 
 ## **Programming Assignments**
 
-Implementations in C
+Implementations in C/C++
 - Week 1: Accuracy & Precision 
 - Week 3: Root Finding I
     - Application of different methods
